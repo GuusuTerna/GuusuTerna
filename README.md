@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuusuTerna, nice to meet you.
-- 👀 I am a C# Developer
+- 👀 I am a Python Developer
 - 🌱 Welcome to my space.
-- 💞️ I look forward to working creating games 
+- 💞️ I look forward to working on creating games 
 - 📫 How to reach me ...
 
 <!---
